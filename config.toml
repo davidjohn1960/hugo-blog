@@ -1,6 +1,6 @@
-baseURL = 'https://davidjohn1960.github.io/hugo-blog'
+baseURL = 'https://djh1960.website'
 languageCode = 'en-gb'
-title = 'David John Hulat: Hellow there.'
+title = 'David John Hulat: Hello there.'
 theme = "m10c"
 [params]
 author = 'David John Hulatt'
