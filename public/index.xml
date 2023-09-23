@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David John Hulat: Hello there.</title>
+    <link>https://djh1960.website/</link>
+    <description>Recent content on David John Hulat: Hello there.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 13 Sep 2022 20:29:56 +0100</lastBuildDate><atom:link href="https://djh1960.website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>David</title>
+      <link>https://djh1960.website/posts/david/</link>
+      <pubDate>Tue, 13 Sep 2022 20:29:56 +0100</pubDate>
+      
+      <guid>https://djh1960.website/posts/david/</guid>
+      <description>David John Hulatt Bio In the beginning Quote
+another heading Will I ever get all this done I have learned alot about Github today I have learned more and ever about hugo and other things.</description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://djh1960.website/posts/firstpost/</link>
+      <pubDate>Tue, 13 Sep 2022 18:43:38 +0100</pubDate>
+      
+      <guid>https://djh1960.website/posts/firstpost/</guid>
+      <description>Our very first blog post using gohugo We are trying out all different types of blogging and came across the gohugo based on markdown
+This is some quote text to see how thing appear on the system
+Here is a different heading (3) </description>
+    </item>
+    
+  </channel>
+</rss>
