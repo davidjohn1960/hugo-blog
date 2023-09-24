@@ -1,13 +1,13 @@
-baseURL = 'https://djh1960.website'
+baseURL = 'https://me.djh1960.uk'
 languageCode = 'en-gb'
-title = 'David John Hulat: Hello there.'
+title = 'David John Hulatt: Hello there.'
 theme = "m10c"
 [params]
 author = 'David John Hulatt'
 description = 'Home for djh1960.uk'
 avatar = ''
 menu_item_separator = '-'
-favicon = '🍓'
+favicon = ''
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
@@ -17,7 +17,7 @@ icon = "github"
 name = "My Github"
 url = "https://github.com/vaga"
 [params.style]
-darkestColor = "#d35050"
+darkestColor = "#20B2AA"
 darkColor = "#212121"
 lightColor = "#f5e3e0"
 lightestColor = "#f5f5f5"
