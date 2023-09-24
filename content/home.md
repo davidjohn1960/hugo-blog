@@ -1,3 +1,8 @@
+---
+title: "Home Page"
+date: 2022-09-13T20:35:56+01:00
+draft: false
+---
 # HOME PAGE
 ***
 This is going to be my home page where I will put some introductor text about myself and what this website is all about.
