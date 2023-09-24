@@ -11,4 +11,5 @@ David John Hulatt, BSc.
 
 P.S. for testing GitHub intergration with Kate Editor
 
-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 - lasts 30 days from 24.09.23
+
+
