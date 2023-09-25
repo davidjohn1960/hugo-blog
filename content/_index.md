@@ -15,6 +15,3 @@ Here should go some text in Geailge.
 David John Hulatt, BSc.
 
 P.S. for testing GitHub intergration with Kate Editor
-
-
-
