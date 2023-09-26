@@ -33,7 +33,7 @@ icon = "github"
 name = "My Github"
 url = "https://github.com/davidjohn1960"
 [[params.social]]
-icon = "ravelry"
+icon = "dribbble"
 name = "My Ravelry"
 url = "https://www.ravelry.com/people/DorothyDropleaf"
 [[params.social]]
