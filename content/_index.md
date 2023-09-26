@@ -1,10 +1,9 @@
 ---
-title: "Home Page"
+title: "INTRODUCTION"
 date: 2022-09-13T20:35:56+01:00
 draft: false
 ---
 ***
-## Introduction
 
 ### 🇬🇧 English
 This is going to be my home page where I will put some introductor text about myself and what this website is all about.
@@ -16,7 +15,7 @@ Mi esperas, ke eblas havi tiun ĉi retpagojn multlingve. Necesas, ke mi relernu 
 ### 🇮🇪 Gaeilge
 Here should go some text in Gaeilge.
 
-David John Hulatt, BSc.
+**David John Hulatt, B.Sc.**
 
 P.S. for testing GitHub intergration with Kate Editor
 
