@@ -1,17 +1,20 @@
 baseURL = 'https://me.djh1960.uk'
 languageCode = 'en-gb'
-title = 'David John Hulatt: Hello there.'
+title = 'David John Hulatt'
 theme = "m10c"
 [params]
 author = 'David John Hulatt'
 description = 'Home for djh1960.uk'
-avatar = ''
+avatar = 'avatar.jpg'
 menu_item_separator = '-'
-favicon = ''
+favicon = 'flavicon.png'
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
 [[params.social]]
 icon = "github"
 name = "My Github"
