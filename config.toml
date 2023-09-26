@@ -6,7 +6,7 @@ theme = "m10c"
 author = 'David John Hulatt'
 description = 'Home for djh1960.uk'
 avatar = 'avatar.jpg'
-favicon = '/skull.icon'
+favicon = '/skull.ico'
 menu_item_separator = '-'
 [[menu.main]]
 identifier = "tags"
