@@ -7,11 +7,15 @@ author = 'David John Hulatt'
 description = 'Home for djh1960.uk'
 avatar = 'avatar.jpg'
 menu_item_separator = '-'
-favicon = 'flavicon.png'
+favicon = 'flavicon.ico'
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/post/"
 [[params.social]]
 icon = "github"
 name = "My Github"
