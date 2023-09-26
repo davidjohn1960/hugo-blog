@@ -33,8 +33,8 @@ icon = "github"
 name = "My Github"
 url = "https://github.com/davidjohn1960"
 [[params.social]]
-icon = "email"
-name = "My Email Address"
+icon = "mail"
+name = "My Email"
 url = "mailto:me@djh1960.uk"
 [params.style]
 darkestColor = "#20B2AA"
