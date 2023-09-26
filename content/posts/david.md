@@ -2,7 +2,13 @@
 title: "David John Hulatt"
 date: 2022-09-13T20:29:56+01:00
 draft: false
-tags: me, hulatt, person
+subtitle: "Biography"
+categories:
+  - about
+  - person
+tags:
+  - hulatt
+  - family
 ---
 ***
 ## David John Hulatt Bio
