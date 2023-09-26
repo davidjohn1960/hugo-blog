@@ -6,20 +6,23 @@ theme = "m10c"
 author = 'David John Hulatt'
 description = 'Home for djh1960.uk'
 avatar = 'avatar.jpg'
-favicon = '/favicon.icon'
+favicon = '/skull.icon'
 menu_item_separator = '-'
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
+weight = 3
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
 url = "/posts/"
+weight = 2
 [[menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
+weight = 1
 [[params.social]]
 icon = "github"
 name = "My Github"
