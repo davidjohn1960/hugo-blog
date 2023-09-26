@@ -12,9 +12,6 @@ favicon = 'flavicon.png'
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
 [[params.social]]
 icon = "github"
 name = "My Github"
