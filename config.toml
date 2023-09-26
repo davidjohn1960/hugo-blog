@@ -33,6 +33,10 @@ icon = "github"
 name = "My Github"
 url = "https://github.com/davidjohn1960"
 [[params.social]]
+icon = "ravelry"
+name = "My Ravelry"
+url = "https://www.ravelry.com/people/DorothyDropleaf"
+[[params.social]]
 icon = "mail"
 name = "My Email"
 url = "mailto:me@djh1960.uk"
