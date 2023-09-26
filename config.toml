@@ -7,7 +7,7 @@ author = 'David John Hulatt'
 description = 'Home for djh1960.uk'
 avatar = 'avatar.jpg'
 menu_item_separator = '-'
-favicon = 'static/flavicon.ico'
+favicon = '/static/flavicon.ico'
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
